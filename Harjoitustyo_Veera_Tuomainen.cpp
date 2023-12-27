@@ -1,5 +1,3 @@
-// Mielestäni olen toteuttanut työn arvosanan 4 mukaisesti
-
 #include <iostream>
 #include <string>
 #include <ctime>
